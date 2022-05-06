@@ -1,4 +1,4 @@
-# GoCode
+# 🐇GoCode
 Site da empresa criada para o desenvolvimento dos projetos do curso superior ciência da computação Unip
 
 <h2>Colaboradores da empresa</h2>
